@@ -1,0 +1,18 @@
+img{
+    height: 250px;
+}
+
+h1{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+    background: darkcyan;
+    color: darkturquoise;
+    padding: 8px;
+
+}
